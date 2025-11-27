@@ -47,9 +47,11 @@ const david = {
 
 <div align="center">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11355288-40e2-42a0-9a1b-c9b12f62e0e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/11355288-40e2-42a0-9a1b-c9b12f62e0e3/public_url" target="_blank">
+  <img src="assets/certifications/aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Graduate - Cloud Foundations" width="200"/>
+</a>
 
-</div><br/><br/><br/>
+</div><br/><br/>
 
 ---
 
