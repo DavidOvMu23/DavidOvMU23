@@ -51,6 +51,10 @@ const david = {
   <img src="assets/certifications/aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Graduate - Cloud Foundations" width="200"/>
 </a>
 
+<!--<a href="https://www.udemy.com/certificate/UC-22ad633c-86aa-40be-a5fe-394165527b3c" target="_blank">
+  <img src="assets/certifications/UC-22ad633c-86aa-40be-a5fe-394165527b3c.jpg" alt="Certificado udemy MongoDB" width="200"/>
+</a>-->
+
 </div><br/><br/>
 
 ---
