@@ -3,7 +3,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
-    <img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"/>
+    <!--<img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"/>-->
   </div><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidOvMu23&color=blueviolet&style=for-the-badge&label=Profile+Views)
