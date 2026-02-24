@@ -6,7 +6,6 @@
     <!--<img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"/>-->
   </div><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidOvMu23&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/DavidOvMu23?style=for-the-badge&color=orange&labelColor=ce4630)
 ![Stars](https://img.shields.io/github/stars/DavidOvMu23?style=for-the-badge&color=yellow&labelColor=f39c12)
 
